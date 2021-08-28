@@ -3,7 +3,7 @@ I have been tasked with refactoring Horiseon's website. My primary objections ar
 
 https://mike-lane.github.io/Refactor-Horiseon/
 
-<img src="https://mike-lane.github.io/Refactor-Horiseon/assets/images/Screenshot.png" alt="Horiseon website, post refactor" width=" 800px" height="800px"/>
+<img src="https://mike-lane.github.io/Refactor-Horiseon/assets/images/Screenshot.png" alt="Horiseon website, post refactor" width=" 600px" height="800px"/>
 
 Changes are as follows: 
 
