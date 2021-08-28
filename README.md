@@ -13,6 +13,18 @@ HTML changes
 
 CSS changes
 <ol>
+    <li>lines 20, 27, 32, 36, 44, and 48: Changed ".header" selector to "header" selector</li>
+    <li>line 11: Moved "a" tag to top of file</li>
+    <li>line 16: Moved "p" tag to top of file</li>
+    <li>lines 36, 44. 48: Changed "header div" to "nav"</li>
+    <li>line 110: Combined ".benefit-lead", "benefit-brand", and "benefit-cost" as all three had the same attributes.</li>
+    <li>line 115: Combined ".benefit-lead h3", "benefit-brand h3", and "benefit-cost h3" as all three had the same attributes.</li>
+    <li>line 120: Combined ".benefit-lead img", "benefit-brand img", and "benefit-cost img" as all three had the same attributes.</li>
+    <li>lines 77, 86, 90: Moved content</li>
+    <li>line 77: Combined ".search-engine-optimization", ".online-reputation-management", ".social-media-marketing" as all three had the same attributes.</li>
+    <li>line 86: Combined ".search-engine-optimization img", ".online-reputation-management img", ".social-media-marketing img" as all three had the same attributes.</li>
+    <li>line 90: Combined ".search-engine-optimization h2", ".online-reputation-management h2", ".social-media-marketing h2" as all three had the same attributes.</li>
+    <li>lines 123 and 130: Changed ".footer" to "footer"</li>
     <li></li>
 </ol>
 
