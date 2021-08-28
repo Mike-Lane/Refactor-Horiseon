@@ -3,7 +3,7 @@ I have been tasked with refactoring Horiseon's website. My primary objections ar
 
 https://mike-lane.github.io/Refactor-Horiseon/
 
-
+<img href="https://mike-lane.github.io/Refactor-Horiseon/assets/images/Screenshot.png" />
 
 Changes are as follows: 
 
